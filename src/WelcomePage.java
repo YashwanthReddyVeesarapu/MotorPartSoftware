@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.SQLException;
@@ -8,7 +7,6 @@ import java.util.logging.Logger;
 
 public class WelcomePage extends JFrame {
     JLabel user;
-    Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
 
     static String userClass;
     public WelcomePage(String str){
