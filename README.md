@@ -37,11 +37,11 @@ Allows to restock an existing MotorPart into the inventory by taking in the ID a
 Gives a list of all the orders placed till date.
 
 ## Find all the attached documents
-#####SRS REDWAREHOUSE.pdf
-- Software Requirements Specification for REDWAREHOUSE
-#####REDWAREHOUSE Screenshots.pdf 
+##### SRS REDWAREHOUSE.pdf
+- Software Requirements Specification for REDWAREHOUSE.
+##### REDWAREHOUSE Screenshots.pdf 
 - PDF of all screenshots of functional software. <br />
-#####ERDiagram.pdf 
+##### ERDiagram.pdf 
 - Find the Entity Relationship Diagram. <br />
 #####Data Flow Diagrams 
 - Folder containing the images of data flow diagrams.
