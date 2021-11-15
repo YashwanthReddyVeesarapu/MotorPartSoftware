@@ -40,9 +40,9 @@ Gives a list of all the orders placed till date.
 ##### SRS REDWAREHOUSE.pdf
 - Software Requirements Specification for REDWAREHOUSE.
 ##### REDWAREHOUSE Screenshots.pdf 
-- PDF of all screenshots of functional software. <br />
+- PDF of all screenshots of functional software.
 ##### ERDiagram.pdf 
-- Find the Entity Relationship Diagram. <br />
-#####Data Flow Diagrams 
+- Find the Entity Relationship Diagram.
+##### Data Flow Diagrams 
 - Folder containing the images of data flow diagrams.
 
